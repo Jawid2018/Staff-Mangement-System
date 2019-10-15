@@ -1,0 +1,369 @@
+# depslib dependency file v1.0
+1569076825 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/main.cpp
+	<StaffView.h>
+	<iostream>
+	<constants.h>
+	<Database.h>
+	<Database.h>
+	<DepartmentView.h>
+	<LoginView.h>
+
+1562782020 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1569093380 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/Database.cpp
+	"Database.h"
+
+1569071078 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/Database.h
+	<string>
+	<sqlite3.h>
+	<StaffItem.h>
+	<Utilities.h>
+	<iostream>
+	<DatabaseContract.h>
+	<StaffView.h>
+	<DepartmentItem.h>
+	<DepartmentView.h>
+
+1567962695 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/TodoItem.h
+	<string>
+
+1569064197 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/DatabaseContract.h
+	<string>
+
+1567967010 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/TodoItem.cpp
+	"TodoItem.h"
+
+1569090804 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/Utilities.h
+	<string>
+	<iostream>
+
+1569098426 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/Utilities.cpp
+	"Utilities.h"
+
+1569001144 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/StaffItem.h
+	<string>
+
+1569001446 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/StaffItem.cpp
+	"StaffItem.h"
+
+1569098504 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/StaffView.h
+	<BaseView.h>
+	<iostream>
+	<StaffItem.h>
+	<string.h>
+	<Repository.h>
+	<iomanip>
+	<Constants.h>
+
+1569098735 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/StaffView.cpp
+	"StaffView.h"
+
+1569070612 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/Repository.cpp
+	"Repository.h"
+
+1569070236 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/Repository.h
+	<StaffItem.h>
+	<iostream>
+	<sqlite3.h>
+	<Database.h>
+	<DepartmentItem.h>
+
+1568908132 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/BaseView.h
+
+1568908132 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/BaseView.h
+
+1568919462 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/constans.cpp
+	<string.h>
+
+1568919939 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/constants.h
+
+1569064277 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/DatabaseContract.cpp
+	"DatabaseContract.h"
+
+1569064660 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/DepartmentItem.cpp
+	"DepartmentItem.h"
+
+1569065040 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/DepartmentItem.h
+	<string>
+
+1569096703 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/DepartmentView.cpp
+	"DepartmentView.h"
+
+1569079402 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/DepartmentView.h
+	<BaseView.h>
+	<DepartmentItem.h>
+	<string>
+	<iomanip>
+	<iostream>
+	<Repository.h>
+
+1569098543 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/Constants.cpp
+	"Constants.h"
+
+1569090776 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/Constants.h
+	<string>
+
+1569083209 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/LoginView.cpp
+	"LoginView.h"
+
+1569099651 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/LoginView.h
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<string>
+	<Constants.h>
+	<ApplicationFlowView.h>
+
+1569099074 source:/home/ssg0315/Documents/StaffMangementSystem/TodoApp/src/ApplicationFlowView.cpp
+	"ApplicationFlowView.h"
+
+1569095815 /home/ssg0315/Documents/StaffMangementSystem/TodoApp/include/ApplicationFlowView.h
+	<iostream>
+	<string>
+	<Constants.h>
+	<LoginView.h>
+	<stdlib.h>
+	<StaffView.h>
+	<Database.h>
+
+1568908132 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/BaseView.h
+
+1562782020 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1570042957 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/ApplicationFlowView.cpp
+	"ApplicationFlowView.h"
+
+1570038405 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/ApplicationFlowView.h
+	<iostream>
+	<string>
+	<Constants.h>
+	<LoginView.h>
+	<stdlib.h>
+	<StaffView.h>
+	<Database.h>
+	<LoginView.h>
+
+1569090776 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/Constants.h
+	<string>
+
+1570038031 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/LoginView.h
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<string>
+	<Constants.h>
+	<ApplicationFlowView.h>
+	<Repository.h>
+	<thread>
+	<chrono>
+
+1570042905 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/StaffView.h
+	<BaseView.h>
+	<iostream>
+	<StaffItem.h>
+	<string.h>
+	<Repository.h>
+	<iomanip>
+	<Constants.h>
+	<LoginUtils.h>
+	<LoginView.h>
+
+1568908132 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/BaseView.h
+
+1569905324 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/StaffItem.h
+	<string>
+
+1570089375 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/Repository.h
+	<StaffItem.h>
+	<iostream>
+	<sqlite3.h>
+	<Database.h>
+	<DepartmentItem.h>
+
+1570029503 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/Database.h
+	<string>
+	<sqlite3.h>
+	<StaffItem.h>
+	<Utilities.h>
+	<iostream>
+	<DatabaseContract.h>
+	<StaffView.h>
+	<DepartmentItem.h>
+	<DepartmentView.h>
+	<LoginView.h>
+
+1570032571 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/Utilities.h
+	<string>
+	<iostream>
+	<Constants.h>
+
+1569904873 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/DatabaseContract.h
+	<string>
+
+1569065040 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/DepartmentItem.h
+	<string>
+
+1569079402 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/DepartmentView.h
+	<BaseView.h>
+	<DepartmentItem.h>
+	<string>
+	<iomanip>
+	<iostream>
+	<Repository.h>
+
+1569098543 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/Constants.cpp
+	"Constants.h"
+
+1570031245 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/Database.cpp
+	"Database.h"
+
+1569904945 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/DatabaseContract.cpp
+	"DatabaseContract.h"
+
+1569064660 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/DepartmentItem.cpp
+	"DepartmentItem.h"
+
+1571110727 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/DepartmentView.cpp
+	"DepartmentView.h"
+
+1570038115 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/LoginView.cpp
+	"LoginView.h"
+
+1569958381 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/Repository.cpp
+	"Repository.h"
+
+1569911279 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/StaffItem.cpp
+	"StaffItem.h"
+
+1570042865 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/StaffView.cpp
+	"StaffView.h"
+
+1570043070 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/Utilities.cpp
+	"Utilities.h"
+
+1571110537 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/main.cpp
+	<LoginView.h>
+
+1568919939 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/constants.h
+
+1569904462 source:/home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/src/LoginUtils.cpp
+	"LoginUtils.h"
+
+1569912326 /home/ssg0315/Documents/StaffMangementSystem/StaffManagementSystme/include/LoginUtils.h
+	<string>
+	<StaffItem.h>
+
